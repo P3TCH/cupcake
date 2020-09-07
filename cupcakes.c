@@ -1,6 +1,5 @@
 #include <stdio.h>
-//6309650395
-//Sorawit Namseetan
+//P3TCH
   int main ()
   {
     int cupcakes,people,re,ans;
